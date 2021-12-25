@@ -15,4 +15,4 @@ Existe un modelo de prueba con el cubo ya mezclado que puede cargar dandole al b
 * Ejecute 'Rubik Cube vX.X.exe' para inicar el snake
 
 ## License
-[License](https://github.com/daniieelgs/rubik_cube_solve/blob/master/LICENSE)
+[License](https://github.com/daniieelgs/rubik_cube_resolve/blob/master/LICENSE)
