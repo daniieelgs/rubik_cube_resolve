@@ -7,3 +7,12 @@ Una vaz el modelo de cubo de rubik coincida con el suyo, pulse el boton inferior
 En el panel de la izquierda se le hirá informando de todos los pasos que debe hacer e incluso se mostrará una flecha en el centro de cada cara con la dirección a la que la debe girar
 con tal de resolver el cubo.
 Existe un modelo de prueba con el cubo ya mezclado que puede cargar dandole al boton inferior que pone 'Provar'.
+
+## Quick Usage
+* Ejecute 'Rubik Cube vX.X.jar' para inicar el snake
+* **Version mínima del JSE: `1.8`**
+> Si no tiene el JVM instalado
+* Ejecute 'Rubik Cube vX.X.exe' para inicar el snake
+
+## License
+[License](https://github.com/daniieelgs/rubik_cube_solve/blob/master/LICENSE)
